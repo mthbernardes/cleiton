@@ -4,7 +4,7 @@ CLEITON is an alternative to the centralized identity access management system.
 CLEITON proposes a scenario where helm members can define which resources can be accessed or not using laws. 
 Since every member can define laws, it is necessary that other members of the helm agree with it. There also an impartial system which ensures that no law is being violated.
 
-# CLEITON Components
+# Components
 ## Resources
 The resources are valuable goods that helm members wants to protect.
 
@@ -22,3 +22,6 @@ Is a smart system responsible to ensure that all laws are not being violated.
 
 ## Helm
 The virtual or physical place where members and resources exists.
+
+# Request Flow
+![request-flow](https://user-images.githubusercontent.com/12648924/215489969-2c662145-c554-4490-af5e-f78508df2fbd.png)
