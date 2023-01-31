@@ -1,5 +1,5 @@
 # CLEITON
-It is an alternative to the centralized identity access management system.
+It is an alternative to the centralized identity access management system. developed by [@feexd](https://github.com/feexd) and [@mthbernardes](https://github.com/mthbernardes)
 
 **CLEITON** proposes a scenario where helm members can define which resources can be accessed or not using laws. 
 Since every member can define laws, it is necessary that other members of the helm agree with it. There also an impartial system which ensures that no law is being violated.
